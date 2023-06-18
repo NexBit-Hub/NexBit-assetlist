@@ -1,0 +1,112 @@
+{
+	"tokens": [
+		{
+			"denom": "usei",
+			"fullName": "Sei",
+			"symbol": "SEI",
+			"chain": {
+				"chainName": "sei",
+				"chainId": "atlantic-2",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/SEI.png"
+		},
+		{
+			"denom": "factory/sei1nsfrq4m5rnwtq5f0awkzr6u9wpsycctjlgzr9q/ZIO",
+			"fullName": "Fuzio",
+			"symbol": "ZIO",
+			"chain": {
+				"chainName": "sei",
+				"chainId": "atlantic-2",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/ZIO.png"
+		},
+		{
+			"denom": "factory/sei1jdppe6fnj2q7hjsepty5crxtrryzhuqsjrj95y/uust2",
+			"fullName": "UST2",
+			"symbol": "UST2",
+			"chain": {
+				"chainName": "sei",
+				"chainId": "atlantic-2",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/UST2.png"
+		},
+		{
+			"denom": "factory/sei1dreru8834gk69045rxha0rkfle5azrqdqr07md/SEN",
+			"fullName": "Sensei",
+			"symbol": "SEN",
+			"chain": {
+				"chainName": "sei",
+				"chainId": "atlantic-2",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/SEN.png"
+		},
+		{
+			"denom": "factory/sei1s6dnc4zxcan6ag7ms72znv8vcpxlzg80fudptg/YESP",
+			"fullName": "Yesports",
+			"symbol": "YESP",
+			"chain": {
+				"chainName": "sei",
+				"chainId": "atlantic-2",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/YESP.png"
+		},
+		{
+			"denom": "factory/sei1rrhh4syyqsl4gtml0t55mcmt34x98gne23fgk3hsas0pjfw2mhyqhz5rxq/FABLE",
+			"fullName": "Fable",
+			"symbol": "FABLE",
+			"chain": {
+				"chainName": "sei",
+				"chainId": "atlantic-2",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/FABLE.png"
+		}
+	]
+}
