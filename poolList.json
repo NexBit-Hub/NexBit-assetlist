@@ -4,34 +4,34 @@
 			"tokenA": "ZIO",
 			"tokenB": "SEI",
 			"swapAddress": "sei1q9z68ysc8yf0k2tlwdkje3kyrud5esqattmkdjhy6w3fyceg9j2sy5fm2g",
-			"bondingAddresses": [],
+			"bondingPeriods": [],
 			"isVerified": true
 		},
 		{
 			"tokenA": "ZIO",
 			"tokenB": "UST2",
 			"swapAddress": "sei1kgdvajpjmagkcafl6l69p4rz5ayt8gyz7vwdcw48x8p8seapqvuq0q6zdp",
-			"bondingAddresses": [],
+			"bondingPeriods": [],
 			"isVerified": true
 		},
 		{
 			"tokenA": "ZIO",
 			"tokenB": "SEN",
 			"swapAddress": "sei1kljwpmgtkuw4dxk2e7kzqvspz2wtcsp3ug9x9cqfzpw3sxf3utrqlgenqw",
-			"bondingAddresses": ["sei15sz9muf4a3tgs2pyhtc223rskg76p6zkuzf862dgcp8crugxekcqsk7aph"],
+			"bondingPeriods": ["sei15sz9muf4a3tgs2pyhtc223rskg76p6zkuzf862dgcp8crugxekcqsk7aph"],
 			"isVerified": true
 		},
 		{
 			"tokenA": "ZIO",
 			"tokenB": "YESP",
 			"swapAddress": "sei102s092zagvkrrzvntzhsv5xcpdm2j46u8yws9nrzxqp87ywl7n6qqz06v9",
-			"bondingAddresses": [],
+			"bondingPeriods": [],
 			"isVerified": false
 		},
 		{
 			"tokenA": "ZIO",
 			"tokenB": "FABLE",
-			"bondingAddresses": [],
+			"bondingPeriods": [],
 			"swapAddress": "sei1f5c4j8ygkyfxch4kve0m40jsmhulp3w2vs7shv6ud8w3rwwwnf9q7c4pyz",
 			"isVerified": false
 		}
