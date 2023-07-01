@@ -12,13 +12,15 @@
 			"tokenB": "UST2",
 			"swapAddress": "sei1kgdvajpjmagkcafl6l69p4rz5ayt8gyz7vwdcw48x8p8seapqvuq0q6zdp",
 			"bondingPeriods": [],
-			"isVerified": true
+			"isVerified": false
 		},
 		{
 			"tokenA": "ZIO",
 			"tokenB": "SEN",
 			"swapAddress": "sei1kljwpmgtkuw4dxk2e7kzqvspz2wtcsp3ug9x9cqfzpw3sxf3utrqlgenqw",
-			"bondingPeriods": ["sei1cyszqjnnph8clg3ze68a4vrh5pcpxhjpwptdjuntehmr95wedvaqzz6axc"],
+			"bondingPeriods": [
+				{ "address": "sei1lgvfnc4maxjc6400xd7sjlw2pxxy02cn7q5kcunshxca0ez0z25qrjwewu" }
+			],
 			"isVerified": true
 		},
 		{
