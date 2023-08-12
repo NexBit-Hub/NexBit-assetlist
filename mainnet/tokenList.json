@@ -1,0 +1,185 @@
+{
+	"tokens": [
+		{
+			"denom": "usei",
+			"fullName": "Sei",
+			"symbol": "SEI",
+			"chain": {
+				"chainName": "sei",
+				"chainId": "atlantic-2",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/SEI.png"
+		},
+		{
+			"denom": "factory/sei1nsfrq4m5rnwtq5f0awkzr6u9wpsycctjlgzr9q/ZIO",
+			"fullName": "Fuzio",
+			"symbol": "ZIO",
+			"chain": {
+				"chainName": "sei",
+				"chainId": "atlantic-2",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/ZIO.png"
+		},
+		{
+			"denom": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
+			"fullName": "USD Coin (Axelar)",
+			"symbol": "axlUSDC",
+			"chain": {
+				"chainName": "axelar",
+				"chainId": "axelar-dojo-1",
+				"gasPrice": {
+					"denom": "uaxl",
+					"amount": "25000"
+				},
+				"ibcChannels": {
+					"deposit_channel": "channel-2",
+					"withdraw_channel": "channel-103",
+					"port_id": "transfer"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": true,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/USDC.png",
+			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/axelar.png"
+		},
+		{
+			"denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
+			"fullName": "Osmosis",
+			"symbol": "OSMO",
+			"chain": {
+				"chainName": "osmosis",
+				"chainId": "osmosis-1",
+				"gasPrice": {
+					"denom": "uosmo",
+					"amount": "25000"
+				},
+				"ibcChannels": {
+					"deposit_channel": "channel-0",
+					"withdraw_channel": "channel-782",
+					"port_id": "transfer"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": true,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/OSMO.png"
+		},
+		{
+			"denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+			"fullName": "Cosmos Hub",
+			"symbol": "ATOM",
+			"chain": {
+				"chainName": "cosmoshub",
+				"chainId": "cosmoshub-4",
+				"gasPrice": {
+					"denom": "uatom",
+					"amount": "25000"
+				},
+				"ibcChannels": {
+					"deposit_channel": "channel-1",
+					"withdraw_channel": "channel-584",
+					"port_id": "transfer"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": true,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/ATOM.png"
+		},
+		{
+			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
+			"fullName": "Wrapped Ether (Wormhole)",
+			"symbol": "whWETHETH",
+			"chain": {
+				"chainName": "wormchain",
+				"chainId": "wormchain",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"ibcChannels": {
+					"deposit_channel": "channel-4",
+					"withdraw_channel": "channel-0",
+					"port_id": "wasm.sei1gjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": true,
+			"decimal": 8,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/WETH.png",
+			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/wormhole.png",
+			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png"
+		},
+		{
+			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
+			"fullName": "Wrapped USD Coin (Wormhole from Ethereum)",
+			"symbol": "whUSDCETH",
+			"chain": {
+				"chainName": "wormchain",
+				"chainId": "wormchain",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"ibcChannels": {
+					"deposit_channel": "channel-4",
+					"withdraw_channel": "channel-0",
+					"port_id": "wasm.sei1gjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": true,
+			"decimal": 6,
+			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png",
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/USDC.png",
+			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/wormhole.png"
+		},
+		{
+			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
+			"fullName": "Wrapped Bitcoin (Wormhole from Ethereum)",
+			"symbol": "whWBTCETH",
+			"chain": {
+				"chainName": "wormchain",
+				"chainId": "wormchain",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"ibcChannels": {
+					"deposit_channel": "channel-4",
+					"withdraw_channel": "channel-0",
+					"port_id": "wasm.sei1gjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": true,
+			"decimal": 8,
+			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png",
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/WBTC.png",
+			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/wormhole.png"
+		}
+	]
+}
