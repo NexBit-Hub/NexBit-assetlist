@@ -6,35 +6,20 @@
 			"symbol": "SEI",
 			"chain": {
 				"chainName": "sei",
-				"chainId": "atlantic-2",
+				"chainId": "pacific-1",
 				"gasPrice": {
 					"denom": "usei",
-					"amount": "25000"
+					"amount": "100000"
 				},
+				"rpc": ["https://rpc.sei-apis.com"],
+				"grpc": ["https://grpc.sei-apis.com"],
+				"rest": ["https://rest.sei-apis.com"],
 				"isEVM": false
 			},
 			"isNativeCoin": true,
 			"isIBCCoin": false,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/SEI.png"
-		},
-		{
-			"denom": "factory/sei1nsfrq4m5rnwtq5f0awkzr6u9wpsycctjlgzr9q/ZIO",
-			"fullName": "Fuzio",
-			"symbol": "ZIO",
-			"chain": {
-				"chainName": "sei",
-				"chainId": "atlantic-2",
-				"gasPrice": {
-					"denom": "usei",
-					"amount": "25000"
-				},
-				"isEVM": false
-			},
-			"isNativeCoin": true,
-			"isIBCCoin": false,
-			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/ZIO.png"
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/SEI.png"
 		},
 		{
 			"denom": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
@@ -45,8 +30,11 @@
 				"chainId": "axelar-dojo-1",
 				"gasPrice": {
 					"denom": "uaxl",
-					"amount": "25000"
+					"amount": "7000"
 				},
+				"rpc": ["https://rpc-axelar-ia.cosmosia.notional.ventures/"],
+				"grpc": ["grpc-axelar-ia.cosmosia.notional.ventures:443"],
+				"rest": ["https://api-axelar-ia.cosmosia.notional.ventures/"],
 				"ibcChannels": {
 					"deposit_channel": "channel-2",
 					"withdraw_channel": "channel-103",
@@ -76,6 +64,9 @@
 					"withdraw_channel": "channel-782",
 					"port_id": "transfer"
 				},
+				"rpc": ["https://rpc.osl.zone"],
+				"grpc": ["https://grpc.osl.zone"],
+				"rest": ["https://rest.osl.zone"],
 				"isEVM": false
 			},
 			"isNativeCoin": true,
@@ -94,6 +85,9 @@
 					"denom": "uatom",
 					"amount": "25000"
 				},
+				"rpc": ["https://rpc-cosmoshub-ia.cosmosia.notional.ventures"],
+				"grpc": ["grpc-cosmoshub-ia.cosmosia.notional.ventures:443"],
+				"rest": ["https://api-cosmoshub-ia.cosmosia.notional.ventures"],
 				"ibcChannels": {
 					"deposit_channel": "channel-1",
 					"withdraw_channel": "channel-584",
