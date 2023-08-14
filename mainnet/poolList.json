@@ -1,3 +1,39 @@
 {
-	"pools": []
+	"pools": [
+		{
+			"tokenA": "SEI",
+			"tokenB": "USDCETHW",
+			"swapAddress": "sei1qd5jdwe6aar2ku4uqnxz3wvcz7hgzjetrxu2fk9nh32sy3qcl3rspmkmqz",
+			"bondingPeriods": [],
+			"isVerified": true
+		},
+		{
+			"tokenA": "SEI",
+			"tokenB": "WBTCETHW",
+			"swapAddress": "sei1d8tp70n489fnqdlm3rl6nmc0myajpdg897g5px3e7unkyke8dh8qgjpavv",
+			"bondingPeriods": [],
+			"isVerified": true
+		},
+		{
+			"tokenA": "SEI",
+			"tokenB": "WETHETHW",
+			"swapAddress": "sei1swwpyksyn90mysr38mjvwns00463pq8mu7kgqq93z25xtpa2eklqy6yq3a",
+			"bondingPeriods": [],
+			"isVerified": true
+		},
+		{
+			"tokenA": "SEI",
+			"tokenB": "ATOM",
+			"swapAddress": "sei1swpm7qaaqkl7mcz4e0qpr59se3mzz0hshg3urm7lgxrh8ckj9t9qevvxvk",
+			"bondingPeriods": [],
+			"isVerified": true
+		},
+		{
+			"tokenA": "SEI",
+			"tokenB": "OSMO",
+			"swapAddress": "sei1kxv666mwz3x5cjckzvcnl7jt40ldeaya6pk3c4n8rprcvawa2d6qkvv57a",
+			"bondingPeriods": [],
+			"isVerified": true
+		}
+	]
 }
