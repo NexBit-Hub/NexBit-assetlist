@@ -108,7 +108,7 @@
 		},
 		{
 			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
-			"fullName": "Wrapped USD Coin (Wormhole from Ethereum)",
+			"fullName": "Wrapped USD Coin (Wormhole ETH)",
 			"symbol": "USDCet",
 			"tokenPrettyName": "USDC (Wormhole ETH)",
 			"chain": {
@@ -135,7 +135,7 @@
 		},
 		{
 			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
-			"fullName": "Wrapped Bitcoin (Wormhole from Ethereum)",
+			"fullName": "Wrapped Bitcoin (Wormhole ETH)",
 			"symbol": "WBTC",
 			"tokenPrettyName": "WBTC (Wormhole ETH)",
 			"chain": {
