@@ -22,7 +22,8 @@
 			"isNativeCoin": true,
 			"isIBCCoin": false,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/SEI.png"
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/SEI.png",
+			"logoHash": "L3EAsd9=00$~2gR~}ESK00,C%LJ-"
 		},
 		{
 			"denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
@@ -51,7 +52,8 @@
 			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/OSMO.png"
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/OSMO.png",
+			"logohash": "LKFq@?5O0c,..lr=MfOU4,t9k3Wm"
 		},
 		{
 			"denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
@@ -80,7 +82,8 @@
 			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/ATOM.png"
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/ATOM.png",
+			"logoHash": "L16RQFJ200ND?1I,%5kS00NE?cfk"
 		},
 		{
 			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
@@ -107,8 +110,11 @@
 			"isIBCCoin": true,
 			"decimal": 8,
 			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/WETH.png",
+			"logoHash": "L7DmnrtM009cxwWUWFa_00M|}{-k",
 			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/wormhole.png",
-			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png"
+			"bridgeHash": "L49Qj:D#00%L=*R$Woay00tQ?bRj",
+			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png",
+			"chainHash": "LtQ9~4of~paej]fQj[fQ?aayIUj]"
 		},
 		{
 			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
@@ -134,9 +140,12 @@
 			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 6,
-			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png",
 			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/USDC.png",
-			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/wormhole.png"
+			"logoHash": "L7FGt,t74mbIyFWB%Maf00jZ~Iax",
+			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/wormhole.png",
+			"bridgeHash": "L49Qj:D#00%L=*R$Woay00tQ?bRj",
+			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png",
+			"chainHash": "LtQ9~4of~paej]fQj[fQ?aayIUj]"
 		},
 		{
 			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
@@ -162,9 +171,12 @@
 			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 8,
-			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png",
 			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/WBTC.png",
-			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/wormhole.png"
+			"logoHash": "LNQJG%ofGbjYt7f6axj[GHae~AkW",
+			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/wormhole.png",
+			"bridgeHash": "L49Qj:D#00%L=*R$Woay00tQ?bRj",
+			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png",
+			"chainHash": "LtQ9~4of~paej]fQj[fQ?aayIUj]"
 		}
 	]
 }
