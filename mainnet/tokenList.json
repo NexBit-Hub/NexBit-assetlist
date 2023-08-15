@@ -86,7 +86,7 @@
 			"tokenPrettyName": "ETH (Wormhole ETH)",
 			"chain": {
 				"chainName": "wormchain",
-				"chainPrettyName": "Wormhole",
+				"chainPrettyName": "Wormhole (ETH)",
 				"chainId": "wormchain",
 				"gasPrice": {
 					"denom": "usei",
@@ -113,7 +113,7 @@
 			"tokenPrettyName": "USDC (Wormhole ETH)",
 			"chain": {
 				"chainName": "wormchain",
-				"chainPrettyName": "Wormhole",
+				"chainPrettyName": "Wormhole (ETH)",
 				"chainId": "wormchain",
 				"gasPrice": {
 					"denom": "usei",
@@ -140,7 +140,7 @@
 			"tokenPrettyName": "WBTC (Wormhole ETH)",
 			"chain": {
 				"chainName": "wormchain",
-				"chainPrettyName": "Wormhole",
+				"chainPrettyName": "Wormhole (ETH)",
 				"chainId": "wormchain",
 				"gasPrice": {
 					"denom": "usei",
