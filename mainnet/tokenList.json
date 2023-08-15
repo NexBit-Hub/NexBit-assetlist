@@ -4,8 +4,10 @@
 			"denom": "usei",
 			"fullName": "Sei",
 			"symbol": "SEI",
+			"tokenPrettyName": "Sei",
 			"chain": {
 				"chainName": "sei",
+				"chainPrettyName": "Sei Network",
 				"chainId": "pacific-1",
 				"gasPrice": {
 					"denom": "usei",
@@ -22,39 +24,14 @@
 			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/SEI.png"
 		},
 		{
-			"denom": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349",
-			"fullName": "USD Coin (Axelar)",
-			"symbol": "axlUSDC",
-			"chain": {
-				"chainName": "axelar",
-				"chainId": "axelar-dojo-1",
-				"gasPrice": {
-					"denom": "uaxl",
-					"amount": "7000"
-				},
-				"rpc": ["https://rpc-axelar-ia.cosmosia.notional.ventures/"],
-				"grpc": ["grpc-axelar-ia.cosmosia.notional.ventures:443"],
-				"rest": ["https://api-axelar-ia.cosmosia.notional.ventures/"],
-				"ibcChannels": {
-					"deposit_channel": "channel-2",
-					"withdraw_channel": "channel-103",
-					"port_id": "transfer"
-				},
-				"isEVM": false
-			},
-			"isNativeCoin": true,
-			"isIBCCoin": true,
-			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/USDC.png",
-			"bridgeURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/bridges/axelar.png"
-		},
-		{
 			"denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518",
 			"fullName": "Osmosis",
 			"symbol": "OSMO",
+			"tokenPrettyName": "Osmosis",
 			"chain": {
 				"chainName": "osmosis",
 				"chainId": "osmosis-1",
+				"chainPrettyName": "Osmosis",
 				"gasPrice": {
 					"denom": "uosmo",
 					"amount": "25000"
@@ -78,8 +55,10 @@
 			"denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
 			"fullName": "Cosmos Hub",
 			"symbol": "ATOM",
+			"tokenPrettyName": "Cosmos Hub",
 			"chain": {
 				"chainName": "cosmoshub",
+				"chainPrettyName": "Cosmos Hub",
 				"chainId": "cosmoshub-4",
 				"gasPrice": {
 					"denom": "uatom",
@@ -102,10 +81,12 @@
 		},
 		{
 			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2",
-			"fullName": "Wrapped Ether (Wormhole)",
-			"symbol": "whWETHETH",
+			"fullName": "Wrapped Ether (Wormhole ETH)",
+			"symbol": "WETH",
+			"tokenPrettyName": "ETH (Wormhole ETH)",
 			"chain": {
 				"chainName": "wormchain",
+				"chainPrettyName": "Wormhole",
 				"chainId": "wormchain",
 				"gasPrice": {
 					"denom": "usei",
@@ -128,9 +109,11 @@
 		{
 			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H",
 			"fullName": "Wrapped USD Coin (Wormhole from Ethereum)",
-			"symbol": "whUSDCETH",
+			"symbol": "USDCet",
+			"tokenPrettyName": "USDC (Wormhole ETH)",
 			"chain": {
 				"chainName": "wormchain",
+				"chainPrettyName": "Wormhole",
 				"chainId": "wormchain",
 				"gasPrice": {
 					"denom": "usei",
@@ -153,9 +136,11 @@
 		{
 			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
 			"fullName": "Wrapped Bitcoin (Wormhole from Ethereum)",
-			"symbol": "whWBTCETH",
+			"symbol": "WBTC",
+			"tokenPrettyName": "WBTC (Wormhole ETH)",
 			"chain": {
 				"chainName": "wormchain",
+				"chainPrettyName": "Wormhole",
 				"chainId": "wormchain",
 				"gasPrice": {
 					"denom": "usei",
