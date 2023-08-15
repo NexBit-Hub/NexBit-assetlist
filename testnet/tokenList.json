@@ -8,6 +8,7 @@
 			"chain": {
 				"chainName": "sei",
 				"chainPrettyName": "Sei Network",
+				"localDenom": "usei",
 				"chainId": "atlantic-2",
 				"gasPrice": {
 					"denom": "usei",
@@ -29,6 +30,7 @@
 				"chainName": "sei",
 				"chainPrettyName": "Sei Network",
 				"chainId": "atlantic-2",
+				"localDenom": "factory/sei1nsfrq4m5rnwtq5f0awkzr6u9wpsycctjlgzr9q/ZIO",
 				"gasPrice": {
 					"denom": "usei",
 					"amount": "25000"
@@ -49,6 +51,7 @@
 				"chainName": "sei",
 				"chainPrettyName": "Sei Network",
 				"chainId": "atlantic-2",
+				"localDenom": "factory/sei1jdppe6fnj2q7hjsepty5crxtrryzhuqsjrj95y/uust2",
 				"gasPrice": {
 					"denom": "usei",
 					"amount": "25000"
@@ -69,6 +72,7 @@
 				"chainName": "sei",
 				"chainPrettyName": "Sei Network",
 				"chainId": "atlantic-2",
+				"localDenom": "factory/sei1dreru8834gk69045rxha0rkfle5azrqdqr07md/SEN",
 				"gasPrice": {
 					"denom": "usei",
 					"amount": "25000"
@@ -89,6 +93,7 @@
 				"chainName": "sei",
 				"chainPrettyName": "Sei Network",
 				"chainId": "atlantic-2",
+				"localDenom": "factory/sei1s6dnc4zxcan6ag7ms72znv8vcpxlzg80fudptg/YESP",
 				"gasPrice": {
 					"denom": "usei",
 					"amount": "25000"
@@ -109,6 +114,7 @@
 				"chainName": "sei",
 				"chainPrettyName": "Sei Network",
 				"chainId": "atlantic-2",
+				"localDenom": "factory/sei1rrhh4syyqsl4gtml0t55mcmt34x98gne23fgk3hsas0pjfw2mhyqhz5rxq/FABLE",
 				"gasPrice": {
 					"denom": "usei",
 					"amount": "25000"

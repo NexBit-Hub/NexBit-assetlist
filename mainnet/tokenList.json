@@ -8,6 +8,7 @@
 			"chain": {
 				"chainName": "sei",
 				"chainPrettyName": "Sei Network",
+				"localDenom": "usei",
 				"chainId": "pacific-1",
 				"gasPrice": {
 					"denom": "usei",
@@ -32,6 +33,7 @@
 				"chainName": "osmosis",
 				"chainId": "osmosis-1",
 				"chainPrettyName": "Osmosis",
+				"localDenom": "uosmo",
 				"gasPrice": {
 					"denom": "uosmo",
 					"amount": "25000"
@@ -59,6 +61,7 @@
 			"chain": {
 				"chainName": "cosmoshub",
 				"chainPrettyName": "Cosmos Hub",
+				"localDenom": "uatom",
 				"chainId": "cosmoshub-4",
 				"gasPrice": {
 					"denom": "uatom",
@@ -88,6 +91,7 @@
 				"chainName": "wormchain",
 				"chainPrettyName": "Wormhole (ETH)",
 				"chainId": "wormchain",
+				"localDenom": "usei",
 				"gasPrice": {
 					"denom": "usei",
 					"amount": "25000"
@@ -115,6 +119,7 @@
 				"chainName": "wormchain",
 				"chainPrettyName": "Wormhole (ETH)",
 				"chainId": "wormchain",
+				"localDenom": "usei",
 				"gasPrice": {
 					"denom": "usei",
 					"amount": "25000"
@@ -142,6 +147,7 @@
 				"chainName": "wormchain",
 				"chainPrettyName": "Wormhole (ETH)",
 				"chainId": "wormchain",
+				"localDenom": "usei",
 				"gasPrice": {
 					"denom": "usei",
 					"amount": "25000"
