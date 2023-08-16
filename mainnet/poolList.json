@@ -2,37 +2,52 @@
 	"pools": [
 		{
 			"tokenA": "SEI",
-			"tokenB": "USDCETHW",
-			"swapAddress": "sei1qd5jdwe6aar2ku4uqnxz3wvcz7hgzjetrxu2fk9nh32sy3qcl3rspmkmqz",
-			"bondingPeriods": [],
+			"tokenB": "USDCet",
+			"swapAddress": "sei1j24sqmw2206jtgllp23kqfcd58rjspus4w485lqrwt0ghyup0r3qcf56x2",
+			"bondingPeriods": [
+				"sei1l246u0f2w30q2763jcm0v6e5x5jwyqr4gawp9ea3c32mtvq95nlqw0ug59",
+				"sei19e6sk3a825euqzkdfskkksqlwmzrdad7pxh6rc75htxaw6zwsjtst0u0x4"
+			],
 			"isVerified": true
 		},
 		{
 			"tokenA": "SEI",
-			"tokenB": "WBTCETHW",
-			"swapAddress": "sei1d8tp70n489fnqdlm3rl6nmc0myajpdg897g5px3e7unkyke8dh8qgjpavv",
-			"bondingPeriods": [],
+			"tokenB": "WBTC",
+			"swapAddress": "sei1w7lkk03srq56kn53mqrmmtmw585jr8p8c5es4s2acwulp2v9wjhq9h9qgt",
+			"bondingPeriods": [
+				"sei1hwy3a7lazp25azq2lu92wmnurdkjgpaxpwuqy4refac2mu060a0sd5u340",
+				"sei1a9sqs95cyrvfunk6t7f83szvrg0xplhv8ggthxhupf3jfld84nzq7rxh82"
+			],
 			"isVerified": true
 		},
 		{
 			"tokenA": "SEI",
-			"tokenB": "WETHETHW",
-			"swapAddress": "sei1swwpyksyn90mysr38mjvwns00463pq8mu7kgqq93z25xtpa2eklqy6yq3a",
-			"bondingPeriods": [],
+			"tokenB": "WETH",
+			"swapAddress": "sei1uuudenuu4jtmcvvp6prua809jwzhwalvku5pftxvyygrd9rz2dcq468suf",
+			"bondingPeriods": [
+				"sei1d9tk4gjq89cmaah00nm5h0ut0pswuhwfglwk65pqym6rxtdyj6ssw09lza",
+				"sei1khrcgnp6sge326qqh9r04ndlkhjsm74nn80mwh4z8alwevs30vxqx2y882"
+			],
 			"isVerified": true
 		},
 		{
 			"tokenA": "SEI",
 			"tokenB": "ATOM",
-			"swapAddress": "sei1swpm7qaaqkl7mcz4e0qpr59se3mzz0hshg3urm7lgxrh8ckj9t9qevvxvk",
-			"bondingPeriods": [],
+			"swapAddress": "sei1tfn5hlum9daqhcua0xpg52l05sjpwx0sr7d53y8r74vq5u4yzx7s2lhtna",
+			"bondingPeriods": [
+				"sei195080y4tqgya5ja5ma0cnlqyfex9yzv3gqe2hueutxatnlyqgljs4fhj6a",
+				"sei1wzpm59mcalc5469dt90060zra8njeufyqm7kuxjylvlwmv7dfyasdkrmnc"
+			],
 			"isVerified": true
 		},
 		{
 			"tokenA": "SEI",
 			"tokenB": "OSMO",
-			"swapAddress": "sei1kxv666mwz3x5cjckzvcnl7jt40ldeaya6pk3c4n8rprcvawa2d6qkvv57a",
-			"bondingPeriods": [],
+			"swapAddress": "sei1m9drsuapsgzasephtajy0504qh7z0qr3yapznercr5m2f2k2yrtsrzqzvm",
+			"bondingPeriods": [
+				"sei1t0nz7ssu2g99hcfyfwvwxrnr9a4m5ldyxz709nha3vfc9mtayqks8t0pem",
+				"sei1q6e287hlzk94xvl3vt0r9npxzgnvmuqzag3me4dkszxnj00ah2hqygj7qc"
+			],
 			"isVerified": true
 		}
 	]
