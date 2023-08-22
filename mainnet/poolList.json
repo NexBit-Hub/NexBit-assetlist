@@ -1,54 +1,88 @@
 {
 	"pools": [
 		{
-			"tokenA": "SEI",
-			"tokenB": "USDCet",
-			"swapAddress": "sei1j24sqmw2206jtgllp23kqfcd58rjspus4w485lqrwt0ghyup0r3qcf56x2",
 			"bondingPeriods": [
-				{ "address": "sei1l246u0f2w30q2763jcm0v6e5x5jwyqr4gawp9ea3c32mtvq95nlqw0ug59" },
-				{ "address": "sei19e6sk3a825euqzkdfskkksqlwmzrdad7pxh6rc75htxaw6zwsjtst0u0x4" }
+				{
+					"address": "sei1l246u0f2w30q2763jcm0v6e5x5jwyqr4gawp9ea3c32mtvq95nlqw0ug59"
+				},
+				{
+					"address": "sei19e6sk3a825euqzkdfskkksqlwmzrdad7pxh6rc75htxaw6zwsjtst0u0x4"
+				}
 			],
-			"isVerified": true
+			"isVerified": true,
+			"liquidity": {
+				"token1": {
+					"denom": "usei"
+				},
+				"token2": {
+					"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+				}
+			},
+			"swapAddress": "sei1j24sqmw2206jtgllp23kqfcd58rjspus4w485lqrwt0ghyup0r3qcf56x2"
 		},
 		{
-			"tokenA": "SEI",
-			"tokenB": "WBTC",
-			"swapAddress": "sei1w7lkk03srq56kn53mqrmmtmw585jr8p8c5es4s2acwulp2v9wjhq9h9qgt",
 			"bondingPeriods": [
 				{ "address": "sei1hwy3a7lazp25azq2lu92wmnurdkjgpaxpwuqy4refac2mu060a0sd5u340" },
 				{ "address": "sei1a9sqs95cyrvfunk6t7f83szvrg0xplhv8ggthxhupf3jfld84nzq7rxh82" }
 			],
-			"isVerified": true
+			"isVerified": true,
+			"liquidity": {
+				"token1": {
+					"denom": "usei"
+				},
+				"token2": {
+					"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br"
+				}
+			},
+			"swapAddress": "sei1w7lkk03srq56kn53mqrmmtmw585jr8p8c5es4s2acwulp2v9wjhq9h9qgt"
 		},
 		{
-			"tokenA": "SEI",
-			"tokenB": "WETH",
-			"swapAddress": "sei1uuudenuu4jtmcvvp6prua809jwzhwalvku5pftxvyygrd9rz2dcq468suf",
 			"bondingPeriods": [
 				{ "address": "sei1d9tk4gjq89cmaah00nm5h0ut0pswuhwfglwk65pqym6rxtdyj6ssw09lza" },
 				{ "address": "sei1khrcgnp6sge326qqh9r04ndlkhjsm74nn80mwh4z8alwevs30vxqx2y882" }
 			],
-			"isVerified": true
+			"isVerified": true,
+			"liquidity": {
+				"token1": {
+					"denom": "usei"
+				},
+				"token2": {
+					"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/4tLQqCLaoKKfNFuPjA9o39YbKUwhR1F8N29Tz3hEbfP2"
+				}
+			},
+			"swapAddress": "sei1uuudenuu4jtmcvvp6prua809jwzhwalvku5pftxvyygrd9rz2dcq468suf"
 		},
 		{
-			"tokenA": "SEI",
-			"tokenB": "ATOM",
-			"swapAddress": "sei1tfn5hlum9daqhcua0xpg52l05sjpwx0sr7d53y8r74vq5u4yzx7s2lhtna",
 			"bondingPeriods": [
 				{ "address": "sei195080y4tqgya5ja5ma0cnlqyfex9yzv3gqe2hueutxatnlyqgljs4fhj6a" },
 				{ "address": "sei1wzpm59mcalc5469dt90060zra8njeufyqm7kuxjylvlwmv7dfyasdkrmnc" }
 			],
-			"isVerified": true
+			"isVerified": true,
+			"liquidity": {
+				"token1": {
+					"denom": "usei"
+				},
+				"token2": {
+					"denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
+				}
+			},
+			"swapAddress": "sei1tfn5hlum9daqhcua0xpg52l05sjpwx0sr7d53y8r74vq5u4yzx7s2lhtna"
 		},
 		{
-			"tokenA": "SEI",
-			"tokenB": "OSMO",
-			"swapAddress": "sei1m9drsuapsgzasephtajy0504qh7z0qr3yapznercr5m2f2k2yrtsrzqzvm",
 			"bondingPeriods": [
 				{ "address": "sei1t0nz7ssu2g99hcfyfwvwxrnr9a4m5ldyxz709nha3vfc9mtayqks8t0pem" },
 				{ "address": "sei1q6e287hlzk94xvl3vt0r9npxzgnvmuqzag3me4dkszxnj00ah2hqygj7qc" }
 			],
-			"isVerified": true
+			"isVerified": true,
+			"liquidity": {
+				"token1": {
+					"denom": "usei"
+				},
+				"token2": {
+					"denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
+				}
+			},
+			"swapAddress": "sei1m9drsuapsgzasephtajy0504qh7z0qr3yapznercr5m2f2k2yrtsrzqzvm"
 		}
 	]
 }

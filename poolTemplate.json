@@ -1,9 +1,20 @@
 {
-	"tokenA": "ZIO",
-	"tokenB": "SEI",
-	"swapAddress": "sei1q9z68ysc8yf0k2tlwdkje3kyrud5esqattmkdjhy6w3fyceg9j2sy5fm2g",
 	"bondingPeriods": [
-		{ "address": "sei1nexwea7nqjle4lsp6d0m4ql59cfyyjgnlm2ge0t9ekpmlz53cgkqv2s6y7" }
+		{
+			"address": "sei1l246u0f2w30q2763jcm0v6e5x5jwyqr4gawp9ea3c32mtvq95nlqw0ug59"
+		},
+		{
+			"address": "sei19e6sk3a825euqzkdfskkksqlwmzrdad7pxh6rc75htxaw6zwsjtst0u0x4"
+		}
 	],
-	"isVerified": true
+	"isVerified": true,
+	"liquidity": {
+		"token1": {
+			"denom": "usei"
+		},
+		"token2": {
+			"denom": "factory/sei189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/Hq4tuDzhRBnxw3tFA5n6M52NVMVcC19XggbyDiJKCD6H"
+		}
+	},
+	"swapAddress": "sei1j24sqmw2206jtgllp23kqfcd58rjspus4w485lqrwt0ghyup0r3qcf56x2"
 }
