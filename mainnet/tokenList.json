@@ -52,7 +52,7 @@
 			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/OSMO.png",
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/feat/morePoolDetails/assets/mainnet/OSMO.png",
 			"logohash": "LKFq@?5O0c,..lr=MfOU4,t9k3Wm"
 		},
 		{
