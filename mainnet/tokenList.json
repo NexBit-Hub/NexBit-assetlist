@@ -177,6 +177,28 @@
 			"bridgeHash": "L49Qj:D#00%L=*R$Woay00tQ?bRj",
 			"chainURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/chains/ETH.png",
 			"chainHash": "LtQ9~4of~paej]fQj[fQ?aayIUj]"
+		},
+		{
+			"denom": "factory/sei1lwp83awd5d2gt4sfet47khj8cwav2lmqn904fe/ZIO",
+			"fullName": "Zio",
+			"symbol": "ZIO",
+			"tokenPrettyName": "Zio Token",
+			"chain": {
+				"chainName": "sei",
+				"chainPrettyName": "Sei Network",
+				"chainId": "acific-1",
+				"localDenom": "factory/sei1lwp83awd5d2gt4sfet47khj8cwav2lmqn904fe/ZIO",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/ZIO.png",
+			"logoHash": "LJF@}W*CD4#DTLWUt7flQ8ZmngIq"
 		}
 	]
 }
