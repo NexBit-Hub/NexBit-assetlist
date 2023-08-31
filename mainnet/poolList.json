@@ -6,7 +6,8 @@
 			"swapAddress": "sei1j24sqmw2206jtgllp23kqfcd58rjspus4w485lqrwt0ghyup0r3qcf56x2",
 			"bondingPeriods": [
 				{ "address": "sei1l246u0f2w30q2763jcm0v6e5x5jwyqr4gawp9ea3c32mtvq95nlqw0ug59" },
-				{ "address": "sei19e6sk3a825euqzkdfskkksqlwmzrdad7pxh6rc75htxaw6zwsjtst0u0x4" }
+				{ "address": "sei19e6sk3a825euqzkdfskkksqlwmzrdad7pxh6rc75htxaw6zwsjtst0u0x4" },
+				{ "address": "sei16ckk8rdusaz7dtu3ke3r9j8emx7peuk8q0tx5pr07rcc03p3c08s9glljs" }
 			],
 			"isVerified": true
 		},
@@ -16,7 +17,8 @@
 			"swapAddress": "sei1w7lkk03srq56kn53mqrmmtmw585jr8p8c5es4s2acwulp2v9wjhq9h9qgt",
 			"bondingPeriods": [
 				{ "address": "sei1hwy3a7lazp25azq2lu92wmnurdkjgpaxpwuqy4refac2mu060a0sd5u340" },
-				{ "address": "sei1a9sqs95cyrvfunk6t7f83szvrg0xplhv8ggthxhupf3jfld84nzq7rxh82" }
+				{ "address": "sei1a9sqs95cyrvfunk6t7f83szvrg0xplhv8ggthxhupf3jfld84nzq7rxh82" },
+				{ "address": "sei1t6dssy6e2wk4n723s9tcm4acfcrdytwydqwy6g0p96cca078phvq7exyfm" }
 			],
 			"isVerified": true
 		},
@@ -26,7 +28,8 @@
 			"swapAddress": "sei1uuudenuu4jtmcvvp6prua809jwzhwalvku5pftxvyygrd9rz2dcq468suf",
 			"bondingPeriods": [
 				{ "address": "sei1d9tk4gjq89cmaah00nm5h0ut0pswuhwfglwk65pqym6rxtdyj6ssw09lza" },
-				{ "address": "sei1khrcgnp6sge326qqh9r04ndlkhjsm74nn80mwh4z8alwevs30vxqx2y882" }
+				{ "address": "sei1khrcgnp6sge326qqh9r04ndlkhjsm74nn80mwh4z8alwevs30vxqx2y882" },
+				{ "address": "sei1cl485yhe00lcakeqpvuymtvexn5srh69elsl4cdjfl9aa9687jzs8dlre0" }
 			],
 			"isVerified": true
 		},
@@ -36,7 +39,8 @@
 			"swapAddress": "sei1tfn5hlum9daqhcua0xpg52l05sjpwx0sr7d53y8r74vq5u4yzx7s2lhtna",
 			"bondingPeriods": [
 				{ "address": "sei195080y4tqgya5ja5ma0cnlqyfex9yzv3gqe2hueutxatnlyqgljs4fhj6a" },
-				{ "address": "sei1wzpm59mcalc5469dt90060zra8njeufyqm7kuxjylvlwmv7dfyasdkrmnc" }
+				{ "address": "sei1wzpm59mcalc5469dt90060zra8njeufyqm7kuxjylvlwmv7dfyasdkrmnc" },
+				{ "address": "sei1uldljgw3sz7fkmrhvssqcdkqa2tpvkuplng8f5yqhgs9mhsfaj5qyw6zh3" }
 			],
 			"isVerified": true
 		},
@@ -46,7 +50,8 @@
 			"swapAddress": "sei1m9drsuapsgzasephtajy0504qh7z0qr3yapznercr5m2f2k2yrtsrzqzvm",
 			"bondingPeriods": [
 				{ "address": "sei1t0nz7ssu2g99hcfyfwvwxrnr9a4m5ldyxz709nha3vfc9mtayqks8t0pem" },
-				{ "address": "sei1q6e287hlzk94xvl3vt0r9npxzgnvmuqzag3me4dkszxnj00ah2hqygj7qc" }
+				{ "address": "sei1q6e287hlzk94xvl3vt0r9npxzgnvmuqzag3me4dkszxnj00ah2hqygj7qc" },
+				{ "address": "sei1z0dthf8nwlw45qj9p4rax5t90kkxmu7nud6enmmctn9ckj7vshysmdgcpr" }
 			],
 			"isVerified": true
 		}
