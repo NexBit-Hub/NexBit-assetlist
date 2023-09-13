@@ -54,6 +54,15 @@
 				{ "address": "sei1z0dthf8nwlw45qj9p4rax5t90kkxmu7nud6enmmctn9ckj7vshysmdgcpr" }
 			],
 			"isVerified": true
+		},
+		{
+			"tokenA": "SEI",
+			"tokenB": "OIN",
+			"swapAddress": "sei10u0s03ex7nlj06muhrkuh80azhlnu32d9r4r2zpkjp4nqqaruj6svvjl6k",
+			"bondingPeriods": [
+				{ "address": "sei1pysc7x4ypeahg59aa9dkmckxr4rmvs9xeuwwktr5w2ldn5e70waqhq3kqa" }
+			],
+			"isVerified": true
 		}
 	]
 }
