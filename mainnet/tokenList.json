@@ -186,7 +186,7 @@
 			"chain": {
 				"chainName": "sei",
 				"chainPrettyName": "Sei Network",
-				"chainId": "acific-1",
+				"chainId": "pacific-1",
 				"localDenom": "factory/sei1lwp83awd5d2gt4sfet47khj8cwav2lmqn904fe/ZIO",
 				"gasPrice": {
 					"denom": "usei",
@@ -199,6 +199,28 @@
 			"decimal": 6,
 			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/ZIO.png",
 			"logoHash": "LJF@}W*CD4#DTLWUt7flQ8ZmngIq"
+		},
+		{
+			"denom": "factory/sei12q0zv3c4cd9jkupn0krazdycc5ftw9wzt9vmhu/OIN",
+			"fullName": "Oin",
+			"symbol": "OIN",
+			"tokenPrettyName": "Oin store of value",
+			"chain": {
+				"chainName": "sei",
+				"chainPrettyName": "Sei Network",
+				"chainId": "pacific-1",
+				"localDenom": "factory/sei12q0zv3c4cd9jkupn0krazdycc5ftw9wzt9vmhu/OIN",
+				"gasPrice": {
+					"denom": "usei",
+					"amount": "25000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://github.com/Fuzio-DeFi-Network/fuzio-assetlist/blob/main/assets/mainnet/oin-250x250.png",
+			"logoHash": "L9Gd$N?Z00NGysr^xIoy8wM|=~V["
 		}
 	]
 }
