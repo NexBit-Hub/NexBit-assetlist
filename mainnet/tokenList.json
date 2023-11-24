@@ -1,27 +1,26 @@
 {
 	"tokens": [
 		{
-			"denom": "usei",
-			"fullName": "Sei",
-			"symbol": "SEI",
-			"tokenPrettyName": "Sei",
+			"denom": "INJ",
+			"fullName": "Injective",
+			"symbol": "INJ",
+			"tokenPrettyName": "Injective",
 			"chain": {
-				"chainName": "sei",
-				"chainPrettyName": "Sei Network",
-				"localDenom": "usei",
-				"chainId": "pacific-1",
+				"chainName": "Injective",
+				"chainPrettyName": "Injective Blockchain",
+				"localDenom": "INJ",
+				"chainId": "injective-1",
 				"gasPrice": {
-					"denom": "usei",
+					"denom": "INJ",
 					"amount": "100000"
 				},
-				"rpc": ["https://rpc.sei-apis.com"],
-				"grpc": ["https://grpc.sei-apis.com"],
-				"rest": ["https://rest.sei-apis.com"],
+				"rpc": ["https://sentry.tm.injective.network:443"],
+				"grpc": ["tcp://sentry.chain.grpc.injective.network:443"],
+				"rest": ["https://injective-lcd.quickapi.com:443"],
 				"isEVM": false
 			},
 			"isNativeCoin": true,
 			"isIBCCoin": false,
-			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/SEI.png",
-			"logoHash": "L3EAsd9=00$~2gR~}ESK00,C%LJ-"
+			"decimal": 18,
+			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/mainnet/SEI.png"
 		},
