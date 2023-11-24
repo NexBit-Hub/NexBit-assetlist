@@ -1,46 +1,26 @@
 {
 	"tokens": [
 		{
-			"denom": "usei",
-			"fullName": "Sei",
-			"symbol": "SEI",
-			"tokenPrettyName": "Sei",
+			"denom": "INJ",
+			"fullName": "Injective Testnet",
+			"symbol": "INJ",
+			"tokenPrettyName": "Injective",
 			"chain": {
-				"chainName": "sei",
-				"chainPrettyName": "Sei Network",
-				"localDenom": "usei",
-				"chainId": "atlantic-2",
+				"chainName": "Injective",
+				"chainPrettyName": "Injective Testnet",
+				"localDenom": "INJ",
+				"chainId": "injective-888",
 				"gasPrice": {
-					"denom": "usei",
-					"amount": "25000"
+					"denom": "INJ",
+					"amount": "100000"
 				},
+				"rpc": ["https://testnet.sentry.tm.injective.network:443"],
+				"grpc": ["tcp://testnet.sentry.chain.grpc.injective.network:443"],
+				"rest": [""],
 				"isEVM": false
 			},
 			"isNativeCoin": true,
 			"isIBCCoin": false,
-			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/testnet/SEI.png",
-			"logoHash": "L3EAsd9=00$~2gR~}ESK00,C%LJ-"
-		},
-		{
-			"denom": "factory/sei1nsfrq4m5rnwtq5f0awkzr6u9wpsycctjlgzr9q/ZIO",
-			"fullName": "Fuzio",
-			"symbol": "ZIO",
-			"tokenPrettyName": "Fuzio",
-			"chain": {
-				"chainName": "sei",
-				"chainPrettyName": "Sei Network",
-				"chainId": "atlantic-2",
-				"localDenom": "factory/sei1nsfrq4m5rnwtq5f0awkzr6u9wpsycctjlgzr9q/ZIO",
-				"gasPrice": {
-					"denom": "usei",
-					"amount": "25000"
-				},
-				"isEVM": false
-			},
-			"isNativeCoin": true,
-			"isIBCCoin": false,
-			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/fuzio-defi-network/fuzio-assetlist/main/assets/testnet/ZIO.png",
-			"logoHash": "LOKC*Nyl}4v,o#kBkCaz|-Z,$xIr"
+			"decimal": 18,
+			"logoURI": "https://github.com/NexBit-Hub/NexBit-assetlist/blob/main/assets/mainnet/inj.png"
 		},
