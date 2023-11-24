@@ -12,7 +12,7 @@
 				"chainId": "injective-888",
 				"gasPrice": {
 					"denom": "INJ",
-					"amount": "100000"
+					"amount": "2000000"
 				},
 				"rpc": ["https://testnet.sentry.tm.injective.network:443"],
 				"grpc": ["tcp://testnet.sentry.chain.grpc.injective.network:443"],
