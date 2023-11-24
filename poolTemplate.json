@@ -1,9 +1,9 @@
 {
-	"tokenA": "ZIO",
-	"tokenB": "SEI",
-	"swapAddress": "sei1q9z68ysc8yf0k2tlwdkje3kyrud5esqattmkdjhy6w3fyceg9j2sy5fm2g",
+	"tokenA": "",
+	"tokenB": "",
+	"swapAddress": "",
 	"bondingPeriods": [
-		{ "address": "sei1nexwea7nqjle4lsp6d0m4ql59cfyyjgnlm2ge0t9ekpmlz53cgkqv2s6y7" }
+		{ "address": "" }
 	],
 	"isVerified": true
 }
