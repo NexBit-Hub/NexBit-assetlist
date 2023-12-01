@@ -24,3 +24,28 @@
 			"decimal": 18,
 			"logoURI": "https://github.com/NexBit-Hub/NexBit-assetlist/blob/main/assets/testnet/inj.png"
 		},
+		{
+			"denom": "factory/inj1v5ae8r4ax90k75qk7yavfmsv96grynqwyl0xg6/NEX",
+			"fullName": "NexBitHub",
+			"symbol": "NEX",
+			"tokenPrettyName": "Nex",
+			"chain": {
+				"chainName": "Injective",
+				"chainPrettyName": "Injective Testnet",
+				"localDenom": "INJ",
+				"chainId": "injective-888",
+				"gasPrice": {
+					"denom": "INJ",
+					"amount": "2000000"
+				},
+				"rpc": ["https://testnet.sentry.tm.injective.network:443"],
+				"grpc": ["tcp://testnet.sentry.chain.grpc.injective.network:443"],
+				"rest": [""],
+				"isEVM": false
+			},
+			"isNativeCoin": false,
+			"isIBCCoin": false,
+			"decimal": 0,
+			"logoURI": "https://github.com/NexBit-Hub/NexBit-assetlist/blob/main/assets/testnet/nex.png"
+		}
+	]}
